@@ -60,7 +60,7 @@ p,.hero-lead,.muted,li,summary,details,.card p,.step p{font-family:'Lato',Arial,
 ========================================== */
 
 :root {
-  --max: 1440px;
+  --max: 1080px;
 }
 
 /* CONTENEDOR GENERAL */
